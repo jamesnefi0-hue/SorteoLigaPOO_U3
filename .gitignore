@@ -1,0 +1,8 @@
+out/
+bin/
+build/
+*.class
+torneo.ser
+.idea/
+*.iml
+nbproject/private/
